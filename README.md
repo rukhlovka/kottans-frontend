@@ -15,3 +15,16 @@ Learning frontEnd with kottans
 
 По [Linux](https://github.com/rukhlovka/kottans-frontend/tree/main/task_linux_cli) було не дуже складно і цікаво, але інформацію по HTTP треба ще переварити. Особливо цікаво було про гешування.
 
+## Git Collaboration
+
+Дуже багато функцій, які трошки змішались в голові. Але думаю з часом на практиці це все має дійти до автоматизму. Взагалі: в захваті від можливостей Git.
+
+![Coursera](task_git_collaboration/coursera3.png)
+
+![Coursera](task_git_collaboration/coursera4.png)
+
+![Basics](task_git_collaboration/basics.png)
+
+![Remote repositories](task_git_collaboration/remote_repo.png)
+
+
