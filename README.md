@@ -28,3 +28,14 @@ Learning frontEnd with kottans
 ![Remote repositories](task_git_collaboration/remote_repo.png)
 
 
+## Intro to HTML and CSS
+
+Колись давно це вчив, але зараз додалось багато нового та цікавого. В HTML5 з'явилиць цікаві теги, наприклад "footer", "header, "nav , "main">", тощо.
+
+По CSS цікаво було розібратись з функцією для роботи різних стилів, в залежності від розміру екрану.
+
+![Coursera](task_html_css_intro/coursera-w1.png)
+
+![Coursera](task_html_css_intro/coursera-w2.png)
+
+![Codecademy](task_html_css_intro/codecademy-html-css.png)
