@@ -39,3 +39,15 @@ Learning frontEnd with kottans
 ![Coursera](task_html_css_intro/coursera-w2.png)
 
 ![Codecademy](task_html_css_intro/codecademy-html-css.png)
+
+## Responsive Web Desig
+
+Тут все для мене було нове. До цього не знав про Flexbox, а про Grid дуже віддалено чув, а виявилось що це дуже і дуже цікаво.
+
+Ігри сподобались. Легко і ненапряжно)
+
+![flexbox-homework](task_responsive_web_design/flexbox-hw2.png)
+
+![flexboxfroggy-game](task_responsive_web_design/flexboxfroggy.png)
+
+![cssgridgarden-game](task_responsive_web_design/cssgridgarden.png)
