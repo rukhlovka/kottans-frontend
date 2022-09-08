@@ -44,6 +44,8 @@ Learning frontEnd with kottans
 
 Тут все для мене було нове. До цього не знав про Flexbox, а про Grid дуже віддалено чув, а виявилось що це дуже і дуже цікаво.
 
+Спробував зверстати домашку по Flexbox від "Фрілансера по життю" (перший скрін).
+
 Ігри сподобались. Легко і ненапряжно)
 
 ![flexbox-homework](task_responsive_web_design/flexbox-hw.png)
