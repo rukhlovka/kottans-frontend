@@ -46,7 +46,7 @@ Learning frontEnd with kottans
 
 Ігри сподобались. Легко і ненапряжно)
 
-![flexbox-homework](task_responsive_web_design/flexbox-hw2.png)
+![flexbox-homework](task_responsive_web_design/flexbox-hw.png)
 
 ![flexboxfroggy-game](task_responsive_web_design/flexboxfroggy.png)
 
