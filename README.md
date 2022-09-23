@@ -53,3 +53,14 @@ Learning frontEnd with kottans
 ![flexboxfroggy-game](task_responsive_web_design/flexboxfroggy.png)
 
 ![cssgridgarden-game](task_responsive_web_design/cssgridgarden.png)
+
+## JS Basics
+
+Багато цікавого дізнався про методи та функції в JS.
+Цікаво було вирішувати задачки. Деякі схожі робив вже на codewars. Але на деякі витратив забагато часу.
+
+![freecodecamp-basic-javascript-and-es6](task_js_basics/freecodecamp-1)
+
+![freecodecamp-basic-data-structures-and-basic-algorithm-scripting](task_js_basics/freecodecamp-2)
+
+![freecodecamp-functional-programming-and-intermediate-algorithm-scripting](task_js_basics/freecodecamp-3)
