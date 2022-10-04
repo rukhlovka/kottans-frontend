@@ -58,6 +58,10 @@ Learning frontEnd with kottans
 
 Ще чекає merge...
 
+Цікаво робити на чистому CSS popup меню.
+
+[Demo](https://rukhlovka.github.io/study/html-css-popup/) | [Code base](https://github.com/rukhlovka/rukhlovka.github.io/tree/main/study/html-css-popup)
+
 ## JS Basics
 
 Багато цікавого дізнався про методи та функції в JS.
