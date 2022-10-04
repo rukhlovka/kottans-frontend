@@ -68,3 +68,26 @@ Learning frontEnd with kottans
 ![freecodecamp-basic-data-structures-and-basic-algorithm-scripting](task_js_basics/freecodecamp-2.png)
 
 ![freecodecamp-functional-programming-and-intermediate-algorithm-scripting](task_js_basics/freecodecamp-3.png)
+
+## DOM
+
+Ще чекає merge...
+
+Сподобалась концепція роботи сайту з підгрузкою даних з js файлу.
+
+[Demo](https://rukhlovka.github.io/study/js-dom/) | [Code base](https://github.com/rukhlovka/rukhlovka.github.io/tree/main/study/js-dom)
+
+![coursera-dom](task_js_dom/coursera-dom.png)
+
+![freecodecamp](task_js_dom/freecodecamp-intermediate-algorithm-scripting.png)
+
+
+## Object Oriented JS
+
+Ще чекає merge...
+
+Гру було цікаво робити. Можливо, колись вернусь і дороблю ще якісь фічі в грі.
+
+[Demo Frogger](https://rukhlovka.github.io/frontend-nanodegree-arcade-game/) | [Code base](https://github.com/rukhlovka/frontend-nanodegree-arcade-game/blob/master/js/app.js)
+
+![codewars](task_js_oop/codewars.png)
